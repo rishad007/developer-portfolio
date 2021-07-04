@@ -1,5 +1,6 @@
 body {
     font-family: 'Festive', cursive;
+    margin: 0;
 }
 
 h1 {
@@ -30,4 +31,9 @@ section {
     border-radius: 10px;
     font-weight: 700;
     color: green;
+}
+
+.banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
